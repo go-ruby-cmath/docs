@@ -1,2 +1,4 @@
 github.com/go-ruby-cmath/cmath v0.0.0-20260629152837-67a84137d824 h1:DLLC7LmqIWv8KT64njNSNjs5H2ayBfNMJGjtPWKR8yY=
 github.com/go-ruby-cmath/cmath v0.0.0-20260629152837-67a84137d824/go.mod h1:djGUM2WR7AdnZqeRg/OQ4xVzmsl8PAWQKILX2n/foas=
+github.com/go-ruby-cmath/cmath v0.0.0-20260717063021-5f2ebb903ff8 h1:P0341Wa52CVcJhtBn/8uGZdbQM2RFz4wesvzp6Js9o4=
+github.com/go-ruby-cmath/cmath v0.0.0-20260717063021-5f2ebb903ff8/go.mod h1:djGUM2WR7AdnZqeRg/OQ4xVzmsl8PAWQKILX2n/foas=
